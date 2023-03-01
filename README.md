@@ -1,24 +1,24 @@
 # ZENTASK-5
 
-Question-1 
+Question-1 - Below programs in anonymous function & IIFE.
 
-Do the below programs in anonymous function & IIFE
-Print odd numbers in an array
-Convert all the strings to title caps in a string array
-Sum of all numbers in an array
-Return all the prime numbers in an array
-Return all the palindromes in an array
-Return median of two sorted arrays of the same size.
-Remove duplicates from an array
-Rotate an array by k times
 
-Question -3
+a.Print odd numbers in an array.
+b.Convert all the strings to title caps in a string array.
+c.Sum of all numbers in an array.
+d.Return all the prime numbers in an array
+e.Return all the palindromes in an array
+f.Return median of two sorted arrays of the same size.
+g.Remove duplicates from an array
+h.Rotate an array by k times
 
-Do the below programs in arrow functions.
-Print odd numbers in an array
-Convert all the strings to title caps in a string array
-Sum of all numbers in an array
-Return all the prime numbers in an array
-Return all the palindromes in an array
+Question -3 - Below programs in arrow functions.
+
+
+a.Print odd numbers in an array
+b.Convert all the strings to title caps in a string array
+c.Sum of all numbers in an array
+d.Return all the prime numbers in an array
+e.Return all the palindromes in an array
 
 
